@@ -1,0 +1,14 @@
+{
+    "name": "webworm",
+    "description": "A web worm script",
+    "version": "1.0.0",
+    "author": "anlibraly",
+    "license": "MIT",
+    "private": true,
+    "scripts": {},
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "request": "^2.87.0"
+    },
+    "devDependencies": {}
+}
